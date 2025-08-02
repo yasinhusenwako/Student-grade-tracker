@@ -92,15 +92,4 @@ This project is a JavaFX application that enables users to input and analyze stu
 - **User:**
   - Class representing a user with a course and score.
 
-### Contributors
-- [Sudeis Fedlu](https://github.com/sudeisf)
-- [Fira0985](https://github.com/Fira0985)
-- [Mercy Wub](https://github.com/mercywub)
-- [Hamdi Ab](https://github.com/hamdi-ab)
-- [Muaz Redi](https://github.com/muazredi-1425)
-- [Yasinhusen Wako](https://github.com/yasinhusenwako)
-- [Garoma Makure](https://github.com/GaromaMakure)
 
-### Contact
-**Sudeis Fedlu (Project Leader)**
-- Email: sudeisfed@gmail.com
