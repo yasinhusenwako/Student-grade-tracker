@@ -9,8 +9,6 @@ Welcome to the Student Grade Visualization System project! This Java-based appli
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
-- [Contributors](#contributors)
-- [Contact](#contact)
 
 ### Description
 This project is a JavaFX application that enables users to input and analyze student performance data. It consists of several components, including a registration form for entering student information, a course entry interface for adding course scores, and a chart display for visualizing performance data in a bar chart. The application calculates and displays the mean and median scores of students based on the entered data.
@@ -91,5 +89,7 @@ This project is a JavaFX application that enables users to input and analyze stu
   - Controller for the registration page.
 - **User:**
   - Class representing a user with a course and score.
+    
+
 
 
